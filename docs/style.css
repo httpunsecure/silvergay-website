@@ -1,12 +1,19 @@
 body {
-  font-size: 1.1em;
-  line-height: 1.5em;
-  max-width: 45em;
-  margin: auto;
-  padding: 0 2%;
+    background: black
+}
+section {
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 img {
-  max-width: 100%;
-  display: block;
-  margin: .75em auto;
+    max-width: 100%;
+    display: block;
+    margin: .75em auto;
 }
+  
