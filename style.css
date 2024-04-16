@@ -7,10 +7,10 @@
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--bgcolor: #ccbbbb;
-		--fgcolor: #333333;
-		--linkcolor: #bb0044;
-		--visitedcolor: #660044;
+        --bgcolor: #FFDBD2;
+        --fgcolor:    #663b30;
+        --linkcolor: #be0038;
+        --visitedcolor: #88512f;
     }
 }
 
